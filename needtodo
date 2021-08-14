@@ -1,0 +1,19 @@
+8/14
+we can calculate the paidfor date for a goal with variables; Today 8/14 , daily saving amount, and total saving 
+
+
+
+/*Project
+ * User comes in enters daily saving amount,toal saving and goal money 
+ * when hit calculate it calculates the days needed for goal and
+ * writes the date it pays off
+ * 
+ * 
+ * Functions
+ readInput: gotta get the inputs
+ onlyNumbers:we just need the numbers
+ addDays: add days to Today
+ calculate: how many days we need
+ write: write the results
+
+ */
